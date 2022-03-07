@@ -1,6 +1,6 @@
 # API REST 
 
-##Tecnologias Usadas en el Proyecto
+Tecnologias Usadas en el Proyecto
 
                 
 + Java
@@ -11,7 +11,7 @@
                 
 
 
-##Funciones 
+Funciones 
 
                 
 1. Guardar Usuarios
