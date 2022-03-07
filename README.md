@@ -21,5 +21,5 @@ Funciones
 5. Buscar Usuarios Por Prioridad
 
 
-###### El proyecto no esta en la nube por lo tanto si se requiere usar, necesitan configurar su base de datos en este caso esta hecha con mysql , pueden cambiar la configuracion de la base de datos siguiendo esta ruta **src\main\resources\application.properties**
+###### El proyecto no se encuentra en la nube, por lo tanto, para utilizarlo se debe configurar la base de datos MySQL. Esta se puede configurar en el archivo que se encuentra en /sex/main/resources/application.properties
                 
