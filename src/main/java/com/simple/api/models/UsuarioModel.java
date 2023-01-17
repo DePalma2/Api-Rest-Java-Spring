@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.simple.api.models;
 
 import javax.persistence.*;
 

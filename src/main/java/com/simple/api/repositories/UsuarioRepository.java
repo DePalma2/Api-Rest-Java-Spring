@@ -1,6 +1,6 @@
-package com.example.demo.repositories;
+package com.simple.api.repositories;
 
-import com.example.demo.models.UsuarioModel;
+import com.simple.api.models.UsuarioModel;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
